@@ -1,2 +1,9 @@
 sass kodlarimizzi css ga ugirish uchun komanda kiritami;
  sass --watch sass:css;
+
+ gitga yuklash process;
+ git commands
+ 1) git status - uzgarish qigan filellarimizzi chiqaradi;
+ 2) git add -A - hamma uzgarishlarni local ga yuklash
+ 3) git commit -m'today i completed sign up page design' -  localdegi uzgarishlarga nom berish;
+ 4) git push;
