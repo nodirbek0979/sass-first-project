@@ -1,0 +1,2 @@
+sass kodlarimizzi css ga ugirish uchun komanda kiritami;
+ sass --watch sass:css;
